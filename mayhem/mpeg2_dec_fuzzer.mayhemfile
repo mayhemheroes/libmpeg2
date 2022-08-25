@@ -1,0 +1,4 @@
+project: PROJECT
+target: mpeg2_dec_fuzzer
+cmds:
+- cmd: /out/mpeg2_dec_fuzzer
